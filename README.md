@@ -11,6 +11,3 @@ this is a clock that is builded by canvas of html and javascript
 ##clock（）函数传入的参数是整个canvas画布的边长，默认是正方形不可改变
 #
 ##调用：clock(500）。只需要在html中插入canvas标签调用函数传入参数就可以
-
-##
-#效果链接：http://zhendong.ren/canvasdraw/clock/index.html
